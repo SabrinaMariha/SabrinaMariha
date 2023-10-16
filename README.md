@@ -1,10 +1,12 @@
-## Olá eu sou a Sabrina Mariha, estudante de Análise e Desenvolvimento de Softwares!
-🧗‍♀️Acredito que valorizar a trajetória é quão importante quanto chegar ao meu objetivo, por conta disso, aqui está o resultado da minha evolução como desenvolvedora. 
-## Primeiro ano🌱
+## 
+<img align="center" alt="Sa-Drawn"   src="https://lh3.googleusercontent.com/pw/ADCreHet_qNgdodHPGTGN5Prgx9Z9EEdvpY0-RJwmUwmf8LIGHWuq2DMa3agWjXJ2YJI_jf03p6PqxCV5V0HtJFyHIED7uad6FQAP--7kWeK1nWspnVJVcg_DfvXHLBprWLz9IK2pXxkj4gAVSlyjE64rzR6L5w_XKk4_9Uky7oseDda3cRLI3kUR4dUzYQoKEF2NfH7G8xA66CzynmoAF-8PNDvsEP627T_sMlbkYXN_Gb_pZAYnhUAQccinekYDJnuGDxWyim5Ao5A5GU10QBDmCOkeOp-tRHP0cuDovepjSdsq9y7bQbJkC0MkEEGYbx_ERe3_ceRLNqcJ5PLPVCDAA8VyqfeGzfUBY6gL0cP8EqcsAdJBu_ztaoXxb6sBEkbvb-PAEf_58cFY3ni75reST0VpD-d0D8DEmnt8penN_HbAyg50mOic3MfupohmHuAhYDc9e3DnbO2Rxlls2w4wfj8ZSGzhrE8c4pc9PTOtL_j_ED4J7tUKRF2hQJpk7qNTSkppgJvo7zpQwXqMpuW3PYeb-DyGcvBJj9-Z7F5mZXE0fqRcfvQHO0MWODVOH7JiHgkejckuOUjr8X7u5nIxtyc3Pf4D1P74V4eHzzh0N-O0jdjr-Gw7O50XqKCxPxb4RiWR_5hzMRUH_I8efJKH7VN6lk9Y2PXuCNg-kbHmYTTYfV_-jB1pI3iMMxqHFDlBzCo4Cg3Rw7bteyjePWQtTmnA6r5iv5D3URaQoC6fxx9rcjtUZtIEUPXRqE_i2JYw6E_Ji1z15IP6Ahlwm_lF0-H3hPW8RQni_CKDUarL4dfb_lHCE7RRTkSAgDvH-_CI1Vo8d2zjlrUnwvQRfkKSrzKgEaZZrrjcKU-z47xGGXu8yXlahbDEQZ_8PdLPDP0za4zTv9UGTzxDcJEZoXpcAtLrLmdDLvOcMFsOM4ZtnySaN8WaH-IgNaiVJE=w1318-h402-no?authuser=0">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SaMariha&show_icons=true&theme=radical)
+<h4>Acredito que valorizar a trajetória é quão importante quanto chegar ao meu objetivo, por conta disso, aqui está o resultado da minha evolução como desenvolvedora.</h4> 
 
-<img align="right" alt="Sa-Drawn" height="140" width="150"  src="https://lh3.googleusercontent.com/pw/ADCreHegGmtnX3xo5OF9sgkOBQOXxGCA9wV_iNBwF987VI4G9yEha7RugbAFZlId3tN0oGUSEq8FRqZBtV7zHJoAewE7-ox5O-pCv26hclg6soRcUjSjS89fZ6Tt-dyNLjX-_ELUQiu9iO_GgkAf_qypolKW35J8lgbrChYSIjTOteRiMNzLDeJwREKaxauCX5-nugU6dpEJQpb4VL9TbqPuCXz2xYIZL_94Tfpxu8T1DMH6AcqUNvyjlrjj5sE3g7YSX2arhbf920J_Mbxwts69v-uZm3voNVlx6MbEgYZH4rboQXWPu-zUKFS2KWacJ20SHkYLog0NhEV09uzI0YLrLRI6BaJ5UYWfFaLYl1O7w1b2vAvR9tu4EXaVCmRMdVJA9jqRfH24dW3d6tvzZaL_k1eHewa6w7uas1AYggmGrKuBsYsS8yemrF7TDpZZM6arJytClkzNINDbd2bxIbSkmSa6mO4DfifGVaGvWMhJoadHCi6QUpCWQ_Jnu_MAsCqQujqx3CYSgjIS3kyk5GOcl3mPrJGIWCkX6UAH7hP5-20apxhVnhEsQQr5YNuVMFT1V0ai-7YDgNi5PtmL7QEBoU7q9gKfFnz-iVT8qzkvoPDjzpzf4Et6ECj9dJgLVCeCQ2mcB4GI8ysiBf_2IyHHSb1X-vrIh2lXazuzww7frRTI-DF6k2ccwssFDATu9pjgQLAnJda2NFeMER6vylY2LzmuTMW7_26LxVZ4OqI-QKukNgPivuaCVINCodGBtN-U8OGnM_dCuBYxenigqECfpoqyROmdp-9nGIuiA5qtEDe1XxAk83TX86pjmaT_70vJ3cfs9aB2sG-duVEvLOZtcoUNiTnrgc3jSaTumAqF5_UeEu-a8KxseKe6wno-Y8Xi4vKCfyasDatkFwUHphz2j9Wv2TYFyiKLD0pGbCHDvH4HkFvGxE8EI1udgs3-IvE=w720-h664-s-no?authuser=0">
+##
+Primeiro ano🌱
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 

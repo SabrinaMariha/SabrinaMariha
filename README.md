@@ -3,9 +3,9 @@
 
 
 ##
-Primeiro ano - 2023🌱
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) 
-<!--!>[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact) <img align="right" alt="Sa-gif" height="165" width="165" src="https://cdn.discordapp.com/attachments/1160307536470233233/1162434580607926332/hi.gif?ex=653bec91&is=65297791&hm=0ee88565f40455f9823b5fe69531872cd623fa16492a736570d9874d51341ab7&"> <-->
+Primeiro ano de ADS- 2023🌱
+
+A minha trajetória até aqui começou com um técnico em informática na região leste de SP, um bacharel em Ciências Farmacêuticas no interior e por fim a decisão de retornar para área de tecnologia. Há o mistério sobre uma investida em Engenharia de Software, talvez o destino me reserve boas descobertas nessa área.
 
 
 

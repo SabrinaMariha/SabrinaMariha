@@ -3,7 +3,8 @@
 
 
 ##
-Primeiro ano de ADS- 2023🌱
+1ºano de ADS em 2023🌱|| 2ºano -2024 :herb:
+
 
 A minha trajetória até aqui começou com um técnico em informática na região leste de SP, um bacharel em Ciências Farmacêuticas no interior e por fim a decisão de retornar para área de tecnologia. Há o mistério sobre uma investida em Engenharia de Software, talvez o destino me reserve boas descobertas nessa área.
 

@@ -1,10 +1,13 @@
 ## 
-<img align="center" alt="Sa-Drawn"   src="https://cdn.discordapp.com/attachments/1160307536470233233/1163889044720201870/Ola_Tamanho_original.gif?ex=65413724&is=652ec224&hm=534630f7890083cf9334430f88cbaeb08b302735ffffbb3a9ac6d4712c5d7180&">
+<img align="center" alt="Sa-Drawn"   src="https://cdn.discordapp.com/attachments/1160307536470233233/1163889044720201870/Ola_Tamanho_original.gif?ex=660c3e24&is=65f9c924&hm=68d5b751d8e14f0a7728cb0034ca17abb5b80aee73d81e340a10396577f4d359&">
 
 
 ##
-1ºano de ADS em 2023🌱|| 2ºano -2024 :herb:
+Formação em ADS:
 
+1ºano  2023🌱
+
+2ºano -2024 :herb:
 
 A minha trajetória até aqui começou com um técnico em informática na região leste de SP, um bacharel em Ciências Farmacêuticas no interior e por fim a decisão de retornar para área de tecnologia. Há o mistério sobre uma investida em Engenharia de Software, talvez o destino me reserve boas descobertas nessa área.
 

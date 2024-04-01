@@ -20,7 +20,7 @@ Formação em ADS:
 
 A minha trajetória até aqui começou com um técnico em informática na região leste de SP, um bacharel em Ciências Farmacêuticas no interior e por fim a decisão de retornar para área de tecnologia. Minha previsão de término para o curso de Análise e Desenvolvimento de Sistemas é 2026, depois pretendo invertir em Engenharia de Software.
 
-Caso queira conhecer mais sobre mim pode acessar o site <a href=sabrinamariha.com.br>Pedra Angular</a> que se trata do meu portfólio, blog e currículo.
+Caso queira conhecer mais sobre mim pode acessar o site <a href="sabrinamariha.com.br">Pedra Angular</a> que se trata do meu portfólio, blog e currículo.
 
 <img align="center" alt="Site" src="https://media.discordapp.net/attachments/1160307536470233233/1222689816185933965/image.png?ex=661721a0&is=6604aca0&hm=066b3e8d8d81246764467bdd6a03181ec035dd83c8e8dde794583b867b0eacad&=&format=webp&quality=lossless&width=1025&height=471">
 

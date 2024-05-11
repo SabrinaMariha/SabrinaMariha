@@ -34,23 +34,14 @@
     <img src="https://skillicons.dev/icons?i=postgres"/>
   </a>
  
-  <a href="https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html" >
-    <img src="https://skillicons.dev/icons?i=c"/>
-  </a>
-  
+ 
   
   
   <a href="https://aws.amazon.com/pt/free/?gclid=CjwKCAiAu9yqBhBmEiwAHTx5p9UfN-GDFcotgZuLXhbM2Nphgjzf4DD_cf44mloSF-q7ryiGCOui0hoCk68QAvD_BwE&trk=2ee11bb2-bc40-4546-9852-2c4ad8e8f646&sc_channel=ps&ef_id=CjwKCAiAu9yqBhBmEiwAHTx5p9UfN-GDFcotgZuLXhbM2Nphgjzf4DD_cf44mloSF-q7ryiGCOui0hoCk68QAvD_BwE:G:s&s_kwcid=AL!4422!3!561843094929!e!!g!!aws!15278604629!130587771740&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all" >
     <img src="https://skillicons.dev/icons?i=aws"/>
   </a>
  
-  <a href="https://www.ansible.com/" >
-    <img src="https://skillicons.dev/icons?i=ansible"/>
-  </a>
 
-  <a href="https://kafka.apache.org/" >
-    <img src="https://skillicons.dev/icons?i=kafka"/>
-  </a>
   
   
 ##
@@ -73,10 +64,6 @@
     <img src="https://skillicons.dev/icons?i=postman"/>
   </a>
   
-  <a href="https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html" >
-    <img src="https://skillicons.dev/icons?i=bash"/>
-  </a>
-
   
   
 
@@ -87,24 +74,8 @@
 <a href="https://www.linkedin.com/in/sabrina-mariha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>       
 </div>
 
-
 ##
 
-#### Formação Acadêmica:
-
-Na visão geral abaixo você encontrará minha formação acadêmica:
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://fullcycle.com.br/wp-content/themes/fullcycle/assets/images/fullcycle-logo.svg"/>](https://curso.fullcycle.com.br/curso-fullcycle/)
-
-**Software Architecture** \
-[**Full Cycle**](https://curso.fullcycle.com.br/curso-fullcycle/) \
-Linguagens & Tecnologias - Front-end: `React`
-<br/>Linguagens & Tecnologias - Back-end: `Java`, `.NET`, `PHP`, `Go (Golang)`, `TypeScript`, `Python`
-<br/>Tecnologias - DevOps: `Docker`, `GitHub`, `Kubernetes`, `Observabilidade`, `Kong`, `Ansible`, `GitFlow`, `CI/CD`, `SonarQube`, `Istio`, `OpenTelemetry`, `Terraform`, `GitOps`
-
-Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/sabrina-mariha/) para uma descrição mais detalhada da minha experiência de trabalho, educação e certificação.
-
-##
 
 #### Estatísticas:
 <div>

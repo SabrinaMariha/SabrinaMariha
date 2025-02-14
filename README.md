@@ -7,7 +7,7 @@
 - 🔰  Sou de Mogi das Cruzes/SP, Brasil
 - ⚡ Apaixonada por Tecnologia e Artesanato
 - 🧠 Graduanda em Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia do Estado de São Paulo - Campus Mogi.
-- Caso queira conhecer mais sobre mim pode acessar o site <a href="https://www.sabrinamariha.com.br">Pedra Angular</a> que se trata do meu portfólio, blog e currículo.
+
 
 
 ##

@@ -5,7 +5,6 @@
 ### Sou a Sabrina, Seja bem-vindo ao meu perfil. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
 - 🔰  Sou de Mogi das Cruzes/SP, Brasil
-- ⚡ Apaixonada por Tecnologia e Artesanato
 - 🧠 Graduanda em Análise e Desenvolvimento de Sistemas - Faculdade de Tecnologia do Estado de São Paulo - Campus Mogi.
 
 
